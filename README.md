@@ -1,5 +1,5 @@
 ### Sobre Leandro Cadete
-I code here to share some codes that can be helpful.
+I like to share some codes that can be helpful.
 I am currently working on qMangerPassword. If someone could help me, it would be great!
 <!--
 **leandrocadete/leandrocadete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
